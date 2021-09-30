@@ -1,0 +1,86 @@
+[
+    {
+        "username": "Bob River",
+        "userImageString": "human1",
+        "lastMessage": "How are you?",
+        "id": 1
+    },
+    {
+        "username": "John Black",
+        "userImageString": "human2",
+        "lastMessage": "Where are you?",
+        "id": 2
+    },
+    {
+        "username": "Misha Red",
+        "userImageString": "human3",
+        "lastMessage": "Who are you?",
+        "id": 3
+    },
+    {
+        "username": "Alex Film",
+        "userImageString": "human4",
+        "lastMessage": "How old are you?",
+        "id": 4
+    },
+    {
+        "username": "Robert Martin",
+        "userImageString": "human5",
+        "lastMessage": "Where are we?",
+        "id": 5
+    },
+    {
+        "username": "Alex Film",
+        "userImageString": "human4",
+        "lastMessage": "How old are you?",
+        "id": 6
+    },
+    {
+        "username": "Alex Film",
+        "userImageString": "human4",
+        "lastMessage": "How old are you?",
+        "id": 7
+    },
+    {
+        "username": "Alex Film",
+        "userImageString": "human4",
+        "lastMessage": "How old are you?",
+        "id": 8
+    },
+    {
+        "username": "Alex Film",
+        "userImageString": "human4",
+        "lastMessage": "How old are you?",
+        "id": 9
+    },
+    {
+        "username": "Alex Film",
+        "userImageString": "human4",
+        "lastMessage": "How old are you?",
+        "id": 10
+    },
+    {
+        "username": "Alex Film",
+        "userImageString": "human4",
+        "lastMessage": "How old are you?",
+        "id": 11
+    },
+    {
+        "username": "Alex Film",
+        "userImageString": "human4",
+        "lastMessage": "How old are you?",
+        "id": 12
+    },
+    {
+        "username": "Alex Film",
+        "userImageString": "human4",
+        "lastMessage": "How old are you?",
+        "id": 13
+    },
+    {
+        "username": "Alex Film",
+        "userImageString": "human4",
+        "lastMessage": "How old are you?",
+        "id": 14
+    }
+]
